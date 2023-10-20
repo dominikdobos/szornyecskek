@@ -1,0 +1,2 @@
+# szornyecskek
+Grid gyakorlás
